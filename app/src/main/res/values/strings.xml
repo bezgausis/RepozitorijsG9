@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Repozitorijs G9</string>
+
+    <string name="btn_save">saglabat</string>
+    <string name="btn_act2">Aktivitate2</string>
+
+    <string name="btn_nolasit">nolasit</string>
+    <string name="btn_act1">Aktivitate1</string>
+</resources>
